@@ -1,6 +1,6 @@
-site_name: 
-site_description: 
-site_url: 
+site_name: Slopers test blog
+site_description: A blog
+site_url: https://github_jesloper.io/obsidian_blog
 
 theme:
     name: 'material'
